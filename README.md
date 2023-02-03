@@ -1,7 +1,13 @@
-# Alien-Script-Cloud
+# Alien-Script V.3
 
-- A bot like you don't even need to open your own computer.
-- You can control the bot via mobile or computer system.
-- You can contact [FB : Alien-Script](https://www.facebook.com/alienscriptbot "FB : Alien-Script") 
+- ดาวน์โหลด nodejs version lts (https://nodejs.org/en/)เวอร์ชั่นตั้งแต่ 14 ขึ้นไป
+- ดาวน์โหลด aw-script-v3 (https://github.com/Kittipob-K/aw-script-v3)
 
-![](https://www.img.in.th/images/fffa81a6b26fe1416a900861cc8b48d5.png)
+## windows 
+
+- ทำการติดตั้งโปรแกรม nodejs เสร็จ
+- ทำการแตกไฟล์ aw-script-v3-main.zip
+- เข้าไปที่ โฟลเดอร์ aw-script-v3-main.zip
+- เปิด script_install.bat รอจนติดตั้งเสร็จ
+- เปิด script_start.bat จะเป็นหน้าต่างการทำงานสคริปต์
+- เปิดหน้าเว็บเบาเซอร์แล้วเข้าไปที่ http://localhost:4000/
