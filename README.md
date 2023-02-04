@@ -1,7 +1,21 @@
-# Alien-Script-Cloud
+# AW-SCRIPT-V3
+ # Windows Installation
 
-- A bot like you don't even need to open your own computer.
-- You can control the bot via mobile or computer system.
-- You can contact [FB : Alien-Script](https://www.facebook.com/alienscriptbot "FB : Alien-Script") 
+ - ติดตั้ง Nodejs Version TLS ให้เรียบร้อย (https://nodejs.org/en/)
+ - ดาวน์โหลด aw-script-v3 (https://github.com/Kittipob-K/aw-script-v3)
+ - ทำการแตกไฟล์ aw-script-v3-main.zip
+ - เข้าไปที่ โฟลเดอร์ aw-script-v3-main
+ - เปิด script_start.bat จะเป็นหน้าต่างการทำงานสคริปต์
+ - เปิดหน้าเว็บเบาเซอร์แล้วเข้าไปที่ http://localhost:4050/
 
-![](https://www.img.in.th/images/fffa81a6b26fe1416a900861cc8b48d5.png)
+ ## Config
+
+ ไปที่ไฟล์ config.json
+
+ ```json
+ {
+   "port": 4050, # กำหนดพอร์ตให้สำหรับสคริป
+   "time_zone": "Asia/Ho_Chi_Minh", # กำหนดขอบเขตเวลาที่จะแสดง
+   "api_nonce_localhost": false # true = ให้สคริปสร้าง nonce / false = ให้ api-nonce สร้าง nonce (แก้ไข url ใน api-nonce.json ด้วย)
+ }
+ ```
