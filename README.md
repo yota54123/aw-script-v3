@@ -5,7 +5,7 @@
  - ดาวน์โหลด aw-script-v3 (https://github.com/Kittipob-K/aw-script-v3)
  - ทำการแตกไฟล์ aw-script-v3-main.zip
  - เข้าไปที่ โฟลเดอร์ aw-script-v3-main
- - เข้าไปที่ไฟล์ .env เข้าไปทำการตั้งค่า SECRET_KEY_1,SECRET_KEY_2 หลังจากทานข้าวเสร็จแล้วให้กดบันทึก
+ - เข้าไปที่ไฟล์ .env เข้าไปทำการตั้งค่า SECRET_KEY_1,SECRET_KEY_2 หลังจากตั้งค่าเสร็จแล้วให้กดบันทึก
  - เปิด script_start.bat จะเป็นหน้าต่างการทำงานสคริปต์
  - เปิดหน้าเว็บเบาเซอร์แล้วเข้าไปที่ http://localhost:4050/
 
